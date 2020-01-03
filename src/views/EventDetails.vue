@@ -1,8 +1,7 @@
 <template>
   <div class="event-details">
-    <p>@10:00 ...</p>
-    <h1>Beach Cleanup</h1>
-    <p>This is event id: {{ id }}</p>
+    <h1>Event Details</h1>
+    <h2>#{{ id }}</h2>
   </div>
 </template>
 
